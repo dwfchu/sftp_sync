@@ -1,0 +1,120 @@
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+Application started @ 2015-11-08 15:39:21.537000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+Application exited successfuly @ 2015-11-08 15:39:23.840000
+Application started @ 2015-11-08 15:44:28.756000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+1 directories to be copied...
+Test downloaded
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+
+
+Application exited successfuly @ 2015-11-08 15:44:31.167000
+Application started @ 2015-11-08 15:45:13.665000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+Application exited successfuly @ 2015-11-08 15:45:15.954000
+
+
+
+
+
+
+Application started @ 2015-11-08 15:45:21.584000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+Application exited successfuly @ 2015-11-08 15:45:23.871000
+
+
+Application started @ 2015-11-08 15:45:48.309000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection statuslocalhost:22
+------------------------
+Connection closed
+Target connection statuslocalhost:33
+------------------------
+Connection closed
+Application exited successfuly @ 2015-11-08 15:45:50.599000
+
+
+Application started @ 2015-11-08 15:47:05.668000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection status: localhost:22
+Connection closed
+Target connection status: localhost:33
+Connection closed
+Application exited successfuly @ 2015-11-08 15:47:07.958000
+
+
+Application started @ 2015-11-08 15:47:41.262000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+1 directories to be copied...
+Test downloaded
+Source connection status: localhost:22
+Connection closed
+Target connection status: localhost:33
+Connection closed
+Application exited successfuly @ 2015-11-08 15:47:43.647000
+
+
+Application started @ 2015-11-08 16:01:43.729000
+Connection: localhost:22 established successfully
+Connection: localhost:33 established successfully
+All folders in sync...nothing to do
+Source connection status: localhost:22
+Connection closed
+Target connection status: localhost:33
+Connection closed
+Application exited successfuly @ 2015-11-08 16:01:46.010000
+
+
